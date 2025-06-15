@@ -1,5 +1,7 @@
 # LEDA-2UNIDADE-PASSWORDS
 
+---- A BASE DE DADOS TEM QUE SER INSERIDA DENTRO DA PASTA 'src' ----
+
 ## Algoritmos de Ordenação
 
 O intuito desse projeto é fazer as ordenações e análises a partir do arquivo "passwords_formated_data.csv" que será criado, no entanto, levaria muito tempo para que ao executar então foi criado um arquivo "passwords_test.csv" que contém partes aleatórias do arquivo principal com cerca de 5 mil senhas, dessa forma, o retorno da execução desse código levará poucos minutos.
